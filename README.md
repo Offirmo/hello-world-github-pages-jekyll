@@ -1,5 +1,8 @@
+#
+
 The latest GitHub pages compatible vanilla Jekyll for reference.
 
+## Introduction
 A free, quality hosting solution is to use Jekyll on GitHub pages.
 Due to its particular structure, Jekyll changes are hard to track
 and it may be difficult to distinguish between vanilla Jekyll files and our custom files.
@@ -11,7 +14,13 @@ to serve as a reference when either:
 
 Created following instructions here: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 
+## update
+```sh
+bundle update
+bundle exec jekyll new . --force
+```
 
+## Interesting read
 Links:
 * https://github.com/Offirmo-team/wiki/wiki/GitHub#h%C3%A9bergement-pages
   * https://pages.github.com/
