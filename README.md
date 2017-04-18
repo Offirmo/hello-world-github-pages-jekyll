@@ -12,9 +12,10 @@ to serve as a reference when either:
 - upgrading Jekyll
 - evaluating Jekyll themes and plugins
 
+Need ruby
+
 Created following instructions here:
 * https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
-* 
 * https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/
 
 ## update
