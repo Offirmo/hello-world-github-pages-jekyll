@@ -17,11 +17,13 @@ Need ruby
 Created following instructions here:
 * https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 * https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/
+* http://jekyllrb.com/docs/drafts/
 
-## update
+## run and update
 ```sh
 bundle update
-bundle exec jekyll new . --force
+bundle exec jekyll serve --drafts
+bundle exec jekyll new . --force   <- XXX review the changes to undo some lines
 ```
 
 ## Interesting read
