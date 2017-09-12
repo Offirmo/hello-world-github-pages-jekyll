@@ -20,6 +20,7 @@ Created following instructions here:
 * http://jekyllrb.com/docs/drafts/
 
 ## run and update
+Need ruby installed: https://github.com/Offirmo-team/wiki/wiki/Ruby#installation
 ```sh
 bundle update
 bundle exec jekyll serve --drafts
